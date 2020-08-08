@@ -26,6 +26,5 @@ Run: npm start
 React application should be up and running on port 3000
 
 
-# Screenshots
 
 
